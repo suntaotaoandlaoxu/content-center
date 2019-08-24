@@ -1,4 +1,4 @@
-package com.suntt.usercenter;
+package com.suntt.contentcenter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
